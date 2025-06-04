@@ -107,7 +107,13 @@ Used display filters to isolate specific protocols:
 
 - Realized how much sensitive data can be exposed over unencrypted channels (e.g., HTTP)  
 
-- Saw how attackers could potentially sniff credentials or session data on unsecured networks  
+- Saw how attackers could potentially sniff credentials or session data on unsecured networks
+
+- 🤝 Contributions
+I am open to feedback, collaborations, and shared learning. If you're also pivoting into cybersecurity, let's connect and support each other.
+
+📬 Contact
+www.linkedin.com/in/abiodun-uche • abioduneniola24@gmail.com •
 
 
 
